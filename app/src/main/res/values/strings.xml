@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">2NDHOME</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">TODO</string>
+    <string name="title_activity_homeactivity">2NDHOME</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="_2ndhome">2NDHOME</string>
+    <string name="sanjeewakumara089_gmail_com">sanjeewakumara089@gmail.com</string>
+    <string name="enter_apartment_details">ENTER APARTMENT DETAILS</string>
+    <string name="view_apartment_details">VIEW APARTMENT DETAILS</string>
+    <string name="VIEW">TODO</string>
+    <string name="ENTER">TODO</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="register">Register</string>
+    <string name="already_registered_sign_in_here">Already registered? Sign in here</string>
+    <string name="title_activity_login">Login</string>
+    <string name="not_have_an_account_signup_here">Not have an account? Signup here</string>
+    <string name="signup">SignUp</string>
+    <string name="user_login">User Login</string>
+    <string name="user_registration">User Registration</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="logout">logout</string>
+    <string name="name">Name:</string>
+    <string name="address">Address:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="price_per_month">Price Per Month:</string>
+    <string name="title_activity_viewapartment">Viewapartment</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "269220775801",
+    "firebase_url": "https://ndhome-28521.firebaseio.com",
+    "project_id": "ndhome-28521",
+    "storage_bucket": "ndhome-28521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269220775801:android:2d539e1ceb9e6b92",
+        "android_client_info": {
+          "package_name": "com.example.sk.a2ndhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269220775801-3vncpk7rcq0eif1ql1icf7tjnci6b1me.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sk.a2ndhome",
+            "certificate_hash": "5be4d5d08ffe88627ed29c49557e90b58b2d4706"
+          }
+        },
+        {
+          "client_id": "269220775801-c344507u8dqgq619kic67m7hd5ak8lue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe7TNjecxSQgi51JbK3IVhR4OpyBm5y7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269220775801-c344507u8dqgq619kic67m7hd5ak8lue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
